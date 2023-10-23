@@ -19,3 +19,7 @@ Entre roche et pierre est un jeu de casse tête où le joueur doit résoudre des
 ## Carte de l'environnement
 
 <img src="medias/Carte.png" style="width: 800px;"></img>
+
+## Schéma de l'intéraction
+
+<img src="medias/Interaction.png" style="width: 700px;"></img>
