@@ -22,4 +22,4 @@ Entre roche et pierre est un jeu de casse tête où le joueur doit résoudre des
 
 ## Schéma de l'intéraction
 
-<img src="medias/Interaction.png" style="width: 700px;"></img>
+<img src="medias/Interaction.png" style="width: 800px;"></img>
