@@ -8,4 +8,4 @@ Entre roche et pierre est un jeu de casse tête où le joueur résout des casse-
 
 ## Moodboard
 ### Gameplay
-<img src="medias/Boite1.png" style="width: 400px;"></img> <img src="medias/Boite2.png" style="width: 400px;"></img> <img src="medias/Boite3.png" style="width: 400px;"></img> <img src="medias/Boite4.png" style="width: 500px;"></img>
+<img src="medias/Boite1.png" style="width: 400px;"></img> <img src="medias/Boite2.png" style="width: 400px;"></img> <img src="medias/Boite3.png" style="width: 400px;"></img> <img src="medias/Boite4.png" style="width: 400px;"></img>
