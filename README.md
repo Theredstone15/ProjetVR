@@ -16,7 +16,9 @@ Entre roche et pierre est un jeu de casse tête où le joueur doit résoudre des
 
 ### Sons
 
-https://github.com/Theredstone15/ProjetVR/assets/89607306/e4fbdd88-fbda-4fef-b809-0b65d8466970
+
+https://github.com/Theredstone15/ProjetVR/assets/89607306/216d0e79-3f30-4c7f-b373-1a695cf83848
+
 
 ## Carte de l'environnement
 
