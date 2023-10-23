@@ -13,3 +13,9 @@ Entre roche et pierre est un jeu de casse tête où le joueur doit résoudre des
 ### Ambiance / Environnement
 
 <img src="medias/WeWereHereAmbiance1.png" style="width: 400px;"></img> <img src="medias/WeWereHereAmbiance2.png" style="width: 400px;"></img> <img src="medias/CastleInside.png" style="width: 400px;"></img> <img src="medias/PorteChateau.png" style="width: 400px;"></img>
+
+### Sons
+
+## Carte de l'environnement
+
+<img src="medias/Carte.png" style="width: 800px;"></img>
